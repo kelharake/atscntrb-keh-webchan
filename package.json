@@ -1,0 +1,26 @@
+{
+  "name": "atscntrb-keh-webchan",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelharake/atscntrb-keh-webchan.git"
+  },
+  "keywords": [
+    "ATS", "js"
+  ],
+  "author": "Khalil El-Harake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kelharake/atscntrb-keh-webchan/issues"
+  },
+  "homepage": "https://github.com/kelharake/atscntrb-keh-webchan#readme",
+  "dependencies": {
+    "atscntrb-keh-libwebsockets": "0.0.8",
+    "atscntrb-keh-libdill": "0.0.1"
+  }
+}
