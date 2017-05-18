@@ -1,8 +1,7 @@
 {
   "name": "atscntrb-keh-webchan",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,7 +19,8 @@
   },
   "homepage": "https://github.com/kelharake/atscntrb-keh-webchan#readme",
   "dependencies": {
-    "atscntrb-keh-libwebsockets": "0.0.8",
-    "atscntrb-keh-libdill": "0.0.1"
+    "atscntrb-keh-libwebsockets": "0.0.9",
+    "atscntrb-keh-libdill": "0.0.2",
+    "atscntrb-keh-direct.c": "0.0.1"
   }
 }
